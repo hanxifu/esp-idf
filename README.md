@@ -1,4 +1,6 @@
 # Espressif IoT Development Framework
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhanxifu%2Fesp-idf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhanxifu%2Fesp-idf?ref=badge_shield)
+
 
 * [中文版](./README_CN.md)
 
@@ -106,3 +108,7 @@ This can be combined with other targets, ie `idf.py -p PORT erase_flash flash` w
 * If you're interested in contributing to ESP-IDF, please check the [Contributions Guide](https://docs.espressif.com/projects/esp-idf/en/latest/contribute/index.html).
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhanxifu%2Fesp-idf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhanxifu%2Fesp-idf?ref=badge_large)
